@@ -3,7 +3,7 @@
 В этом репозитории исходный код игр с [sinyakov.com/games](http://sinyakov.com/games/).  
 Все игры на чистом JavaScript, без движков и фреймворков.
 
-![Comics](http://sinyakov.com/games/img/comics.jpg)
+![Comics](http://sinyakov.com/frontend/games/img/comics.jpg)
 
 ### Предварительный список
 

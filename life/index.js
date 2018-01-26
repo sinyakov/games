@@ -13,8 +13,8 @@ canvas.style.width = `${CANVAS_WIDTH}px`;
 canvas.style.height = `${CANVAS_HEIGHT}px`;
 ctx.scale(scale, scale);
 
-const width = 30;
-const heigth = 30;
+const width = 60;
+const heigth = 60;
 
 function init(width, height) {
   const frame = [];
