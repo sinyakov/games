@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>tic-tac-toe</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="shortcut icon" href="./favicon.ico">
+  <link href="./style.css" rel="stylesheet">
+  <script src="./generateField.js" defer="defer"></script>
+  <script src="./index.js" defer="defer"></script>
+</head>
+
+<body>
+  <div id="app">
+    <div class="won-title hidden">
+      <span class="won-message"></span>
+      <button class="restart-btn btn">Restart game</button>
+    </div>
+    <div class="field"></div>
+    <button disabled class="undo-btn btn">Undo</button>
+    <button disabled class="redo-btn btn">Redo</button>
+  </div>
+</body>
+
+</html>
